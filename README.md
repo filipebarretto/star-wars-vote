@@ -20,7 +20,9 @@ The current version can de downloaded from Google Play at https://play.google.co
 
 
 
-![Star Wars Vote](/screenshots/star-wars-vote-02.png)
+<p align="center">
+<img src="/screenshots/star-wars-vote-02.png" alt="Star Wars Vote" width="256">
+<p>
 
 
 
