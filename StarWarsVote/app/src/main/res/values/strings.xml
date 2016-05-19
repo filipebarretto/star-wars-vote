@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Star Wars Vote</string>
+
+    <string name="reset">Reset</string>
+
+    <string name="yoda">Yoda</string>
+    <string name="vader">Vader</string>
+
+    <string name="jedi">Jedi</string>
+    <string name="sith">Sith</string>
+
+    <string name="yoda_button">@string/yoda</string>
+    <string name="vader_button">@string/vader</string>
+
+    <string name="yoda_quote">Do or do not! There is no try!</string>
+    <string name="vader_quote">Luke, I am your father!</string>
+
+    <string name="initial_count">0</string>
+</resources>

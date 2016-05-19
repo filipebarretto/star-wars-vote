@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "697321372496",
+    "firebase_url": "https://star-wars-vote.firebaseio.com",
+    "project_id": "star-wars-vote",
+    "storage_bucket": "star-wars-vote.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697321372496:android:a7b050e91f262f44",
+        "android_client_info": {
+          "package_name": "com.filipebarretto.starwarsvote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "697321372496-po4ic3fj033r9fnfk6dp2t1bukgfdgcl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.filipebarretto.starwarsvote",
+            "certificate_hash": "B9C2505D2B5018966EE94B9BB23D0219D39EEC6B"
+          }
+        },
+        {
+          "client_id": "697321372496-mmj7k6mnh9schl99lmgklodlnb3veggu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmTZjKL_77D7pBdsTUfAYBQZfWEKCj3qc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "697321372496-mmj7k6mnh9schl99lmgklodlnb3veggu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

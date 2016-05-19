@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#17315c</color>
+    <color name="colorPrimaryDark">#13294C</color>
+    <color name="colorAccent">#17315c</color>
+
+    <color name="jedi_color">#008800</color>
+    <color name="sith_color">#BC0000</color>
+</resources>
