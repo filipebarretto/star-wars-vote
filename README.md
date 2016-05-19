@@ -1,4 +1,4 @@
-# Android Toast
+# Star Wars Vote
 
 ## About
 
